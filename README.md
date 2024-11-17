@@ -14,4 +14,4 @@ Features for Travellers:
 
 
 
-![]()
+![](https://github.com/barveP/Airbnb-Replica-With-Node.js-React.js-MongoDB/blob/master/landing-page-screenshot.png)
